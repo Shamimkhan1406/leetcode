@@ -27,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Shamimkhan1406/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
