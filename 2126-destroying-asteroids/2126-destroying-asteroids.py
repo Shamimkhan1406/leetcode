@@ -1,9 +1,9 @@
 class Solution(object):
     def asteroidsDestroyed(self, mass, asteroids):
         asteroids.sort()
-        for i in range(len(asteroids)):
-            if asteroids[i] <= mass:
-                mass += asteroids[i]
+        for a in asteroids:
+            if a <= mass:
+                mass += a
             else:
                 return False
         return True
