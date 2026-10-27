@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shamimkhan1406/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shamimkhan1406/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Shamimkhan1406/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shamimkhan1406/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shamimkhan1406/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shamimkhan1406/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shamimkhan1406/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Shamimkhan1406/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shamimkhan1406/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shamimkhan1406/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
@@ -39,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/Shamimkhan1406/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shamimkhan1406/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
