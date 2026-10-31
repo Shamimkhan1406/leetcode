@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shamimkhan1406/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shamimkhan1406/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
