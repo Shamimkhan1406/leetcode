@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shamimkhan1406/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shamimkhan1406/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shamimkhan1406/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Shamimkhan1406/leetcode/tree/master/2126-destroying-asteroids) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shamimkhan1406/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shamimkhan1406/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shamimkhan1406/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Enumeration
