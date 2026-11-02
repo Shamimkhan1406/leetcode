@@ -84,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shamimkhan1406/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Shamimkhan1406/leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
