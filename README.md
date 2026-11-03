@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shamimkhan1406/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shamimkhan1406/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shamimkhan1406/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shamimkhan1406/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shamimkhan1406/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
