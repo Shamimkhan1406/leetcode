@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shamimkhan1406/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0347-top-k-frequent-elements](https://github.com/Shamimkhan1406/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shamimkhan1406/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shamimkhan1406/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shamimkhan1406/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shamimkhan1406/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shamimkhan1406/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shamimkhan1406/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shamimkhan1406/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -93,4 +96,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Shamimkhan1406/leetcode/tree/master/0177-nth-highest-salary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shamimkhan1406/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shamimkhan1406/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shamimkhan1406/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shamimkhan1406/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shamimkhan1406/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
