@@ -1,14 +1,21 @@
 class Solution(object):
     def findTheDistanceValue(self, arr1, arr2, d):
         count= 0
-        for i in arr1:
-            found = True
-            for j in arr2:
-                if abs(i-j)<=d:
-                    found=False
-                    break
-            if found:
-                count += 1
+        arr2.sort()
+        for num in arr1:
+            i = 0
+            j = len(arr2)
+            while i < j:
+                m = i+(j-i)//2
+                if arr2[m]<num:
+                    i+=1
+                else:
+                    j-=1
+            if i<len(arr2) and arr2[i]-num<=d:
+                continue
+            if i > 0 and num-arr2[i-1]<=d:
+                continue
+            count += 1
         return count
             
         """
