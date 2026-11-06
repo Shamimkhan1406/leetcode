@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shamimkhan1406/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Shamimkhan1406/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shamimkhan1406/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2747-count-zero-request-servers](https://github.com/Shamimkhan1406/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shamimkhan1406/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shamimkhan1406/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shamimkhan1406/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2747-count-zero-request-servers](https://github.com/Shamimkhan1406/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shamimkhan1406/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shamimkhan1406/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Shamimkhan1406/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shamimkhan1406/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2747-count-zero-request-servers](https://github.com/Shamimkhan1406/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shamimkhan1406/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shamimkhan1406/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/Shamimkhan1406/leetcode/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
