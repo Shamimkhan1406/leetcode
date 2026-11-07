@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shamimkhan1406/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shamimkhan1406/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/Shamimkhan1406/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shamimkhan1406/leetcode/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Shamimkhan1406/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shamimkhan1406/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shamimkhan1406/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shamimkhan1406/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shamimkhan1406/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamimkhan1406/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -127,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Shamimkhan1406/leetcode/tree/master/2747-count-zero-request-servers) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shamimkhan1406/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shamimkhan1406/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
