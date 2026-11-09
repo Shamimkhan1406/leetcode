@@ -1,23 +1,15 @@
 class Solution(object):
     def backspaceCompare(self, s, t):
-        st_s=[]
-        for i in s:
-            if i == '#':
-                if st_s:
-                    st_s.pop()
-            else:
-                st_s.append(i)
-        s = ''.join(st_s)
-        st_t=[]
-        for j in t:
-            if j == '#':
-                if st_t:
-                    st_t.pop()
-            else:
-                st_t.append(j)
-        t = ''.join(st_t)
-        
-        return s == t
+        def build(string):
+            st = []
+            for i in string:
+                if i == '#':
+                    if st:
+                        st.pop()
+                else:
+                    st.append(i)
+            return ''.join(st)
+        return build(s) == build(t)
 
         """
         :type s: str
