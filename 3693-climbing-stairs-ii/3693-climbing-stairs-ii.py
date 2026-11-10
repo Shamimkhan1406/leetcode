@@ -1,20 +1,15 @@
 class Solution(object):
     def climbStairs(self, n, costs):
-        memo = [-1]*(n+1)
-        def dfs(i):
-            if i == n:
-                return 0
-            if memo[i]!= -1:
-                return memo[i]
-            ans = float('inf')
-            for jump in range(1,4):
-                j = jump+i
-                if j <= n:
-                    jump_cost = costs[j-1]+jump**2
-                    ans = min(ans,jump_cost+dfs(j))
-            memo[i] = ans
-            return memo[i]
-        return dfs(0)
+        dp = [float('inf')]*(n+1)
+        dp[0]=0
+        for i in range(1,n+1):
+            # i+1 step
+            dp[i]=min(dp[i],dp[i-1]+costs[i-1]+1**2)
+            if i >= 2:
+                dp[i]= min(dp[i],dp[i-2]+costs[i-1]+2**2)
+            if i >= 3:
+                dp[i]=min(dp[i],dp[i-3]+costs[i-1]+3**2)
+        return dp[n]
         """
         :type n: int
         :type costs: List[int]
