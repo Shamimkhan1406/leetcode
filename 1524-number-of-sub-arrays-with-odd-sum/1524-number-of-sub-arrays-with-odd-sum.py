@@ -1,0 +1,16 @@
+class Solution(object):
+    def numOfSubarrays(self, arr):
+        MOD = 10**9+7
+        odd = even = ans = 0
+        for x in arr:
+            if x%2==1:
+                odd,even = even+1,odd
+            else:
+                even += 1
+            ans = (ans + odd)%MOD
+        return ans
+        """
+        :type arr: List[int]
+        :rtype: int
+        """
+        
