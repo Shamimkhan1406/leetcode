@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Shamimkhan1406/leetcode/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shamimkhan1406/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shamimkhan1406/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Shamimkhan1406/leetcode/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shamimkhan1406/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
