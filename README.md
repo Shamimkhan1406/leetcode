@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Shamimkhan1406/leetcode/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shamimkhan1406/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shamimkhan1406/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shamimkhan1406/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shamimkhan1406/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shamimkhan1406/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shamimkhan1406/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Shamimkhan1406/leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shamimkhan1406/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shamimkhan1406/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shamimkhan1406/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shamimkhan1406/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shamimkhan1406/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Enumeration
